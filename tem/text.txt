@@ -1,0 +1,2 @@
+this project uses an api to fetch the information of today affairs and 
+show them to the users .this app is really awesome
